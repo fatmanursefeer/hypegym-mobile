@@ -2,13 +2,8 @@
   About the Hypegym
 </h1>
 
-- This project was developed to digitize the gym management system. This app can be
-used by anyone who goes to the gym. Of course, the gym must also be a member of
-this application. We did this project as a term project as a group of 5 people. I was a
-team manager on the project. The project has been developed both on the web and
-mobile side.
-- The mobile side of the app is developed using flutter, the web side is react, and the
-backend side is developed using goLang.
+- This project was developed to digitize the gym management system. This app can be used by anyone who goes to the gym. Of course, the gym must also be a member of this application. We did this project as a term project as a group of 5 people. I was a team manager on the project. The project has been developed both on the web and mobile side.
+- The mobile side of the app is developed using flutter, the web side is JavaScript, and the backend side is developed using goLang.
 - There are 3 different users in the hypegym application. These are gym admin, personal trainer and gym member.
 
 <h1 align="center">
